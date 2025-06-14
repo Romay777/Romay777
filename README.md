@@ -72,7 +72,7 @@ I'm a firm believer in lifelong learning. Right now, I'm focused on:
 I'm open to new opportunities and collaborations. Feel free to reach out!
 
 <p>
-  <a href="https://t.me/khalbi1" target="_blank">
+  <a href="https://t.me/khalbi1">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="mailto:romachit11@gmail.com">
